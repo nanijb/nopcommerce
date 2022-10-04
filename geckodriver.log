@@ -1,0 +1,67 @@
+1664197136095	geckodriver	INFO	Listening on 127.0.0.1:59745
+1664197139132	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59746" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JYOTHI~1\\AppData\\Local\\Temp\\rust_mozprofiles9w4GO"
+1664197148945	geckodriver	INFO	Listening on 127.0.0.1:59756
+1664197151977	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59757" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JYOTHI~1\\AppData\\Local\\Temp\\rust_mozprofileVwyTIs"
+1664197162426	Marionette	INFO	Marionette enabled
+1664197162511	Marionette	INFO	Listening on port 59770
+Read port: 59770
+Read port: 59770
+WebDriver BiDi listening on ws://127.0.0.1:59757
+Read port: 59770
+Read port: 59770
+Read port: 59770
+Read port: 59770
+Read port: 59770
+Read port: 59770
+Read port: 59770
+Read port: 59770
+Read port: 59770
+1664197175964	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+[GFX1-]: Killing GPU process due to IPC reply timeout
+[GFX1-]: Failed as lost WebRenderBridgeChild.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Fallback SW-WR + D3D11 to SW-WR
+[GFX1-]: Failed to create remote compositor
+[Parent 12464, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:405
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JYOTHI~1\\AppData\\Local\\Temp\\rust_mozprofileVwyTIs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59757/devtools/browser/eda083e4-2803-4e25-9bd4-cf240f03120b
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1664197299942	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1664197427969	Marionette	INFO	Stopped listening on port 59770
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664197464939	geckodriver	INFO	Listening on 127.0.0.1:59909
+1664197467991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59910" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JYOTHI~1\\AppData\\Local\\Temp\\rust_mozprofilePhZfPM"
+1664197470702	Marionette	INFO	Marionette enabled
+1664197470710	Marionette	INFO	Listening on port 59922
+Read port: 59922
+WebDriver BiDi listening on ws://127.0.0.1:59910
+1664197471007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JYOTHI~1\\AppData\\Local\\Temp\\rust_mozprofilePhZfPM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59910/devtools/browser/ca742c3a-c7dc-469d-a048-949ec170ad9b
+1664197492778	Marionette	INFO	Stopped listening on port 59922
+1664197500097	geckodriver	INFO	Listening on 127.0.0.1:59955
+1664197503117	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59956" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JYOTHI~1\\AppData\\Local\\Temp\\rust_mozprofileWYJwVs"
+1664197504122	Marionette	INFO	Marionette enabled
+1664197504130	Marionette	INFO	Listening on port 59965
+Read port: 59965
+WebDriver BiDi listening on ws://127.0.0.1:59956
+1664197504365	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JYOTHI~1\\AppData\\Local\\Temp\\rust_mozprofileWYJwVs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59956/devtools/browser/455857a5-f9fc-487e-9477-71f418df1129
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1664197649994	Marionette	INFO	Stopped listening on port 59965
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 8808, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
